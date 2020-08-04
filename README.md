@@ -1,15 +1,11 @@
 # Comtor-Training-Course-2
 Comtor Training Course 2
 
-### Danh sách các bạn comtor trong course 2 : 
+Danh sách các bạn comtor trong course 2 : 
 
-#### Lưu Thị Thanh Vân
+Lưu Thị Thanh Vân
 
-Email : luu.thi.thanh.van@sun-asterisk.com
-
-#### Trần Thị Thu Mai
-
-Email : .....
+Trần Thị Thu Mai
 
 Huỳnh Thị Trúc Uyên
 
