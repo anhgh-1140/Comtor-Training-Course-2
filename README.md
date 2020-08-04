@@ -19,6 +19,7 @@ Huỳnh Thị Thuý Nga
 1. Department
     1. EUV4
         1. Section 1
+            1. Group 3
 
 Trần Thị Giang Thanh
 
